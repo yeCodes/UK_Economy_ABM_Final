@@ -1,0 +1,63 @@
+Workforce proportion of industry population," Agriculture, forestry and fishing", Mining and quarrying, Manufacturing," Electricity, gas, air cond supply"," Water supply, sewerage, waste", Construction," Wholesale, retail, repair of vehicles", Transport and storage, Accommodation and food services,  Information and communication,  Financial and insurance activities,  Real estate activities,"  Prof, scientific, technical activ.",  Admin and support services,  Public admin and defence,  Education,  Health and social work,"  Arts, entertainment and recreation",  Other service activities,  Households as employers,  Extraterritorial organisations
+11 Corporate Managers And Directors,0.1,0.21,0.21,0.06,0.11,0.18,0.21,0.13,0.05,0.16,0.24,0.13,0.17,0.15,0.12,0.03,0.08,0.07,0.09,0,0.29
+12 Other Managers And Proprietors,0.11,0.01,0.01,0,0.05,0.02,0.05,0.01,0.23,0.02,0.01,0.28,0.02,0.06,0.01,0.01,0.03,0.09,0.06,0,0
+"21 Science, Engineering, Tech Professionals",0.02,0.25,0.18,0.09,0.13,0.07,0.04,0.03,0,0.45,0.1,0.03,0.16,0.05,0.07,0.04,0.03,0.05,0.07,0,0.05
+22 Health Professionals,0,0,0,0,0,0,0.02,0,0,0,0,0,0.01,0.01,0.06,0.01,0.38,0,0.03,0,0
+23 Teaching And Educational Professionals,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0.56,0.01,0.01,0.02,0.05,0
+"24 Business, Media And Public Service Professionals",0,0.07,0.05,0.03,0.09,0.08,0.02,0.02,0.01,0.09,0.13,0.1,0.27,0.05,0.18,0.03,0.07,0.11,0.15,0,0.11
+"31 Science, Engineering ,Tech Associate Prof",0,0.05,0.06,0.02,0.05,0.02,0.01,0.01,0,0.04,0.02,0.01,0.03,0.01,0.02,0.02,0.01,0.01,0.02,0,0
+32 Health And Social Care Associate Professionals,0,0,0,0,0,0,0.01,0,0,0,0,0.05,0,0,0.02,0.02,0.06,0.01,0.04,0,0
+33 Protective Service Occupations,0,0,0,0,0,0,0,0,0,0,0.01,0,0,0.01,0.21,0,0,0,0,0,0.22
+"34 Culture, Media And Sports Occupations",0,0,0.01,0,0,0,0.01,0,0,0.06,0,0,0.05,0.01,0,0.03,0,0.27,0.02,0,0
+"35 Business, Public Service Associate Prof",0.03,0.09,0.08,0.03,0.07,0.03,0.09,0.06,0.03,0.08,0.32,0.2,0.12,0.08,0.07,0.02,0.02,0.06,0.05,0,0.18
+41 Administrative Occupations,0.03,0.07,0.06,0.02,0.07,0.04,0.06,0.05,0.03,0.03,0.12,0.1,0.08,0.07,0.14,0.04,0.05,0.07,0.05,0,0.13
+42 Secretarial And Related Occupations,0.01,0.01,0.01,0,0.01,0.01,0.01,0,0.02,0,0.01,0.02,0.02,0.01,0.02,0.02,0.02,0.02,0.01,0.02,0.02
+51 Skilled Agricultural And Related Trades,0.42,0,0,0,0,0,0,0,0,0,0,0.01,0,0.08,0,0,0,0.03,0.01,0.23,0
+"52 Skilled Metal, Electrical, Electronic Trades",0.02,0.12,0.17,0.05,0.04,0.1,0.08,0.04,0,0.03,0,0.01,0.02,0.03,0.01,0,0,0.01,0.08,0,0
+53 Skilled Construction And Building Trades,0.01,0.02,0.03,0.02,0.02,0.37,0.01,0,0.01,0,0,0.03,0.02,0.02,0,0,0,0.01,0,0,0
+"54 Textiles, Printing And Other Skilled Trades",0.01,0,0.03,0,0,0,0.02,0,0.18,0,0,0,0,0,0,0.01,0.01,0.01,0.01,0.01,0
+61 Caring Personal Service Occupations,0.01,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0.01,0.11,0.2,0.02,0.06,0.25,0
+"62 Leisure, Travel And Related Personal Servic",0,0,0,0,0,0,0,0.03,0.03,0,0,0,0,0.04,0,0.01,0.01,0.05,0.16,0.14,0
+71 Sales Occupations,0.01,0,0.01,0,0.01,0,0.19,0,0.03,0.01,0.01,0.01,0.01,0.01,0,0,0,0.01,0.01,0,0
+72 Customer Service Occupations,0,0,0.01,0.02,0.02,0,0.03,0.02,0.01,0.02,0.03,0.01,0.01,0.04,0.02,0,0,0.02,0.01,0,0
+"81 Process, Plant And Machine Operatives",0,0.03,0,0.64,0.03,0.01,0.03,0.06,0.02,0.01,0,0,0,0.02,0.01,0,0,0.01,0,0.2,0
+82 Transport And Drivers And Operatives,0.03,0.06,0.03,0.01,0.16,0.03,0.05,0.44,0.03,0,0,0,0,0.03,0.01,0.01,0,0.01,0.01,0,0
+91 Elementary Trades And Related Occupations,0.18,0.01,0.03,0,0.03,0.04,0.01,0.01,0,0,0,0,0,0.02,0,0,0,0,0.01,0,0
+92 Elementary Administration And Service Occupations,0.01,0,0.02,0,0.11,0,0.05,0.09,0.32,0,0,0.01,0,0.18,0.01,0.03,0.02,0.05,0.03,0.1,0
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
